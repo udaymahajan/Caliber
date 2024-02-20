@@ -22,6 +22,5 @@ public class User {
     private int age;
     private int weight;
     private int height;
-    private List<String> fitnessGoals;
 
 }
