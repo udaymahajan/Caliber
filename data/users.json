@@ -1,0 +1,47 @@
+[
+  {
+    "username": "Sebastian Shultz",
+    "email": "shultz@gmail.com",
+    "password": "hashed_password",
+    "age": 18,
+    "weight": 55,
+    "height": 180,
+    "fitnessGoals": ["gain weight", "build muscle"]
+  },
+  {
+    "username": "Laura Campbell",
+    "email": "campbell@outlook.com",
+    "password": "hashed_password",
+    "age": 21,
+    "weight": 55,
+    "height": 160,
+    "fitnessGoals": ["lose weight", "strengthen glutes"]
+  },
+  {
+    "username": "Jasman",
+    "email": "jasman@hotmail.com",
+    "password": "hashed_password",
+    "age": 22,
+    "weight": 96,
+    "height": 172,
+    "fitnessGoals": ["lose_weight", "gain muscle"]
+  },
+  {
+    "username": "Chris Heriya",
+    "email": "chris@outlook.com",
+    "password": "hashed_password",
+    "age": 28,
+    "weight": 70,
+    "height": 180,
+    "fitnessGoals": ["strength training", "body-building"]
+  },
+  {
+    "username": "Brian O Connor",
+    "email": "connor@gmail.com",
+    "password": "hashed_password",
+    "age": 30,
+    "weight": 85,
+    "height": 185,
+    "fitnessGoals": ["calisthenics", "weight loss", "build muscle"]
+  }
+]
