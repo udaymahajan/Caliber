@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Full Body Workout",
+    "description": "A full-body workout routine for beginners.",
+    "duration": 60,
+    "exercises": [
+      {
+        "name": "push-ups",
+        "sets": 3,
+        "reps": 12,
+        "rest": 60
+      },
+      {
+        "name": "squats",
+        "sets": 3,
+        "reps": 10,
+        "rest": 60
+      }
+    ]
+  },
+  {
+
+  },
+  {
+
+  }
+]

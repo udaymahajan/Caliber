@@ -21,6 +21,7 @@ public class Workout {
 
     @Id
     private ObjectId id;
+    private ObjectId userId;
     private String name;
     private String description;
     private int duration;

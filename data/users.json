@@ -5,8 +5,7 @@
     "password": "hashed_password",
     "age": 18,
     "weight": 55,
-    "height": 180,
-    "fitnessGoals": ["gain weight", "build muscle"]
+    "height": 180
   },
   {
     "username": "Laura Campbell",
@@ -14,8 +13,7 @@
     "password": "hashed_password",
     "age": 21,
     "weight": 55,
-    "height": 160,
-    "fitnessGoals": ["lose weight", "strengthen glutes"]
+    "height": 160
   },
   {
     "username": "Jasman",
@@ -23,8 +21,7 @@
     "password": "hashed_password",
     "age": 22,
     "weight": 96,
-    "height": 172,
-    "fitnessGoals": ["lose_weight", "gain muscle"]
+    "height": 172
   },
   {
     "username": "Chris Heriya",
@@ -32,8 +29,7 @@
     "password": "hashed_password",
     "age": 28,
     "weight": 70,
-    "height": 180,
-    "fitnessGoals": ["strength training", "body-building"]
+    "height": 180
   },
   {
     "username": "Brian O Connor",
@@ -41,7 +37,6 @@
     "password": "hashed_password",
     "age": 30,
     "weight": 85,
-    "height": 185,
-    "fitnessGoals": ["calisthenics", "weight loss", "build muscle"]
+    "height": 185
   }
 ]
